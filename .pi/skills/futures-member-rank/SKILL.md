@@ -62,3 +62,24 @@ node scripts/czce_rank.mjs --date latest --format json --output czce-rank.json
 回答排名时必须同时说明交易所、交易日、品种/合约标签和指标：每个表分别公布成交量、持多单、持空单三套排名，不能把它们混为一个“总排名”，也不能跨合约自行汇总为官方名次。会员未出现在结果中，只能表述为“未进入该表该指标的官方前 20 名”，不能称为“没有排名”。会员名称默认是包含匹配；若出现多个同名或近似名称，列出完整官方名称并请用户确认。
 
 若脚本没有找到数据，报告脚本输出的请求日期和失败原因；不要自行改查其他日期。交易日数据通常在收市后更新；不要把尚未发布或非交易日解释成零持仓或零成交。
+
+## 保存结果后的筛选与交付
+
+`--output` 保存的是完整原始载荷，其中筛选前的记录位于 `records`。它**不**保存 `selected_records`，即使命令行同时传了 `--contract`、`--member` 或 `--metric`。`selected_records` 只会在不使用 `--output` 且指定 `--format json` 时出现在标准输出中。
+
+因此，用户要求导出 CSV、计算或制作图表时，先用 `--output` 获取完整载荷，再从 `records` 过滤；不要读取不存在的 `selected_records`。字段按交易所区分：
+
+- CFFEX：`product`、`contract`、`metric`、`rank`、`member`、`value`、`change`。
+- CZCE：`exchange`、`instrument`、`metric`、`rank`、`member`、`value`、`change`。
+
+例如，筛选中金所 T2612 的成交量前十名，条件是 `record.contract === "T2612" && record.metric === "volume" && record.rank <= 10`。郑商所则使用 `instrument`，不要将它当作 CFFEX 的 `contract`。
+
+所有中间 JSON、分析脚本、CSV 和图表文件都保存在**项目根目录**的 `tmp/`，不要使用系统临时目录。开始后若目录不存在，先创建它：
+
+```powershell
+New-Item -ItemType Directory -Force -Path tmp | Out-Null
+```
+
+例如，使用 `tmp/cffex-rank.json`、`tmp/extract_rank.mjs` 和 `tmp/T2612-volume-top10.csv`。在 Windows 的 Git Bash 中，`/tmp` 是 Bash 的 POSIX 路径，而 Node 可能将其解释成 `D:\tmp`；因此不得在 Bash 或 Node 中使用或硬编码 `/tmp/...`。后续读取和写入都使用项目根目录相对路径 `tmp/...`。
+
+如果用户要求的结果是文件、表格、计算或图表，抓取数据只是中间步骤：继续完成筛选、写出或展示该结果，并确认文件已经生成或表格已经得到。发现字段名或路径不符时，先修正并执行下一步；这类诊断不能作为最终回复。只有交付完成，或遇到无法自行解决的外部阻塞（例如交易所未发布数据、网络持续失败）时，才结束本轮。
