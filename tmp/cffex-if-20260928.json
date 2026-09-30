@@ -1,0 +1,2407 @@
+{
+  "trade_date": "20260928",
+  "source": "CFFEX official member ranking CSV",
+  "records": [
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "volume",
+      "rank": 1,
+      "member": "中信期货(代客)",
+      "value": 15045,
+      "change": 4795
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "long",
+      "rank": 1,
+      "member": "中信期货(代客)",
+      "value": 9854,
+      "change": 1944
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "short",
+      "rank": 1,
+      "member": "中信期货(代客)",
+      "value": 9047,
+      "change": 1791
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "volume",
+      "rank": 2,
+      "member": "国泰君安(代客)",
+      "value": 12796,
+      "change": 4210
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "long",
+      "rank": 2,
+      "member": "国泰君安(代客)",
+      "value": 9639,
+      "change": 628
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "short",
+      "rank": 2,
+      "member": "国泰君安(代客)",
+      "value": 6827,
+      "change": 1016
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "volume",
+      "rank": 3,
+      "member": "海通期货(代客)",
+      "value": 7440,
+      "change": 3106
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "long",
+      "rank": 3,
+      "member": "海通期货(代客)",
+      "value": 3866,
+      "change": 951
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "short",
+      "rank": 3,
+      "member": "中金财富(代客)",
+      "value": 6553,
+      "change": -900
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "volume",
+      "rank": 4,
+      "member": "东证期货(代客)",
+      "value": 4086,
+      "change": 1072
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "long",
+      "rank": 4,
+      "member": "银河期货(代客)",
+      "value": 3070,
+      "change": 105
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "short",
+      "rank": 4,
+      "member": "海通期货(代客)",
+      "value": 4585,
+      "change": 1119
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "volume",
+      "rank": 5,
+      "member": "国信期货(代客)",
+      "value": 3845,
+      "change": 1894
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "long",
+      "rank": 5,
+      "member": "东证期货(代客)",
+      "value": 2703,
+      "change": 107
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "short",
+      "rank": 5,
+      "member": "广发期货(代客)",
+      "value": 3680,
+      "change": 432
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "volume",
+      "rank": 6,
+      "member": "中泰期货(代客)",
+      "value": 2770,
+      "change": 1085
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "long",
+      "rank": 6,
+      "member": "光大期货(代客)",
+      "value": 2232,
+      "change": 218
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "short",
+      "rank": 6,
+      "member": "东证期货(代客)",
+      "value": 2526,
+      "change": -21
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "volume",
+      "rank": 7,
+      "member": "华闻期货(代客)",
+      "value": 2644,
+      "change": 1077
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "long",
+      "rank": 7,
+      "member": "宝城期货(代客)",
+      "value": 1639,
+      "change": -293
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "short",
+      "rank": 7,
+      "member": "银河期货(代客)",
+      "value": 2176,
+      "change": 24
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "volume",
+      "rank": 8,
+      "member": "中信建投(代客)",
+      "value": 2226,
+      "change": 430
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "long",
+      "rank": 8,
+      "member": "大越期货(代客)",
+      "value": 1484,
+      "change": 8
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "short",
+      "rank": 8,
+      "member": "摩根大通(代客)",
+      "value": 2025,
+      "change": 103
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "volume",
+      "rank": 9,
+      "member": "广发期货(代客)",
+      "value": 1955,
+      "change": 555
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "long",
+      "rank": 9,
+      "member": "广发期货(代客)",
+      "value": 1460,
+      "change": 421
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "short",
+      "rank": 9,
+      "member": "国信期货(代客)",
+      "value": 1455,
+      "change": 417
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "volume",
+      "rank": 10,
+      "member": "中金财富(代客)",
+      "value": 1486,
+      "change": 860
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "long",
+      "rank": 10,
+      "member": "国信期货(代客)",
+      "value": 1456,
+      "change": 222
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "short",
+      "rank": 10,
+      "member": "招商期货(代客)",
+      "value": 1301,
+      "change": -23
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "volume",
+      "rank": 11,
+      "member": "银河期货(代客)",
+      "value": 1479,
+      "change": 90
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "long",
+      "rank": 11,
+      "member": "中泰期货(代客)",
+      "value": 1247,
+      "change": 323
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "short",
+      "rank": 11,
+      "member": "平安期货(代客)",
+      "value": 1262,
+      "change": 271
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "volume",
+      "rank": 12,
+      "member": "华泰期货(代客)",
+      "value": 1232,
+      "change": 115
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "long",
+      "rank": 12,
+      "member": "华泰期货(代客)",
+      "value": 1213,
+      "change": 5
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "short",
+      "rank": 12,
+      "member": "光大期货(代客)",
+      "value": 1261,
+      "change": 421
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "volume",
+      "rank": 13,
+      "member": "光大期货(代客)",
+      "value": 1111,
+      "change": 313
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "long",
+      "rank": 13,
+      "member": "华闻期货(代客)",
+      "value": 1126,
+      "change": 293
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "short",
+      "rank": 13,
+      "member": "华闻期货(代客)",
+      "value": 1192,
+      "change": 323
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "volume",
+      "rank": 14,
+      "member": "中银期货(代客)",
+      "value": 1001,
+      "change": 658
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "long",
+      "rank": 14,
+      "member": "中信建投(代客)",
+      "value": 1119,
+      "change": -471
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "short",
+      "rank": 14,
+      "member": "中泰期货(代客)",
+      "value": 1153,
+      "change": 235
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "volume",
+      "rank": 15,
+      "member": "五矿期货(代客)",
+      "value": 794,
+      "change": 120
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "long",
+      "rank": 15,
+      "member": "浙商期货(代客)",
+      "value": 1099,
+      "change": 137
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "short",
+      "rank": 15,
+      "member": "申银万国(代客)",
+      "value": 999,
+      "change": 140
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "volume",
+      "rank": 16,
+      "member": "申银万国(代客)",
+      "value": 743,
+      "change": 286
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "long",
+      "rank": 16,
+      "member": "西南期货(代客)",
+      "value": 860,
+      "change": 203
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "short",
+      "rank": 16,
+      "member": "瑞银期货(代客)",
+      "value": 992,
+      "change": -5
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "volume",
+      "rank": 17,
+      "member": "永安期货(代客)",
+      "value": 721,
+      "change": 131
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "long",
+      "rank": 17,
+      "member": "五矿期货(代客)",
+      "value": 843,
+      "change": 294
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "short",
+      "rank": 17,
+      "member": "华泰期货(代客)",
+      "value": 930,
+      "change": -19
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "volume",
+      "rank": 18,
+      "member": "招商期货(代客)",
+      "value": 709,
+      "change": 101
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "long",
+      "rank": 18,
+      "member": "东兴期货(代客)",
+      "value": 812,
+      "change": 51
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "short",
+      "rank": 18,
+      "member": "中银期货(代客)",
+      "value": 748,
+      "change": 221
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "volume",
+      "rank": 19,
+      "member": "瑞达期货(代客)",
+      "value": 708,
+      "change": 209
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "long",
+      "rank": 19,
+      "member": "中粮期货(代客)",
+      "value": 771,
+      "change": 136
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "short",
+      "rank": 19,
+      "member": "国投期货(代客)",
+      "value": 745,
+      "change": -68
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "volume",
+      "rank": 20,
+      "member": "平安期货(代客)",
+      "value": 614,
+      "change": 103
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "long",
+      "rank": 20,
+      "member": "招商期货(代客)",
+      "value": 698,
+      "change": -152
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2610",
+      "metric": "short",
+      "rank": 20,
+      "member": "永安期货(代客)",
+      "value": 709,
+      "change": 77
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "volume",
+      "rank": 1,
+      "member": "中信期货(代客)",
+      "value": 2554,
+      "change": 577
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "long",
+      "rank": 1,
+      "member": "中信期货(代客)",
+      "value": 1616,
+      "change": 443
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "short",
+      "rank": 1,
+      "member": "中信期货(代客)",
+      "value": 1378,
+      "change": 271
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "volume",
+      "rank": 2,
+      "member": "海通期货(代客)",
+      "value": 2396,
+      "change": 670
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "long",
+      "rank": 2,
+      "member": "国泰君安(代客)",
+      "value": 1533,
+      "change": 230
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "short",
+      "rank": 2,
+      "member": "东证期货(代客)",
+      "value": 1087,
+      "change": 394
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "volume",
+      "rank": 3,
+      "member": "东证期货(代客)",
+      "value": 1982,
+      "change": 987
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "long",
+      "rank": 3,
+      "member": "宝城期货(代客)",
+      "value": 836,
+      "change": 314
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "short",
+      "rank": 3,
+      "member": "国泰君安(代客)",
+      "value": 973,
+      "change": -59
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "volume",
+      "rank": 4,
+      "member": "国泰君安(代客)",
+      "value": 1783,
+      "change": 244
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "long",
+      "rank": 4,
+      "member": "银河期货(代客)",
+      "value": 740,
+      "change": 175
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "short",
+      "rank": 4,
+      "member": "中金财富(代客)",
+      "value": 954,
+      "change": 885
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "volume",
+      "rank": 5,
+      "member": "国信期货(代客)",
+      "value": 1034,
+      "change": -264
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "long",
+      "rank": 5,
+      "member": "海通期货(代客)",
+      "value": 701,
+      "change": -265
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "short",
+      "rank": 5,
+      "member": "海通期货(代客)",
+      "value": 916,
+      "change": 181
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "volume",
+      "rank": 6,
+      "member": "中金财富(代客)",
+      "value": 915,
+      "change": 906
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "long",
+      "rank": 6,
+      "member": "东证期货(代客)",
+      "value": 688,
+      "change": 308
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "short",
+      "rank": 6,
+      "member": "招商期货(代客)",
+      "value": 667,
+      "change": 10
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "volume",
+      "rank": 7,
+      "member": "华泰期货(代客)",
+      "value": 628,
+      "change": 395
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "long",
+      "rank": 7,
+      "member": "招商期货(代客)",
+      "value": 451,
+      "change": 66
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "short",
+      "rank": 7,
+      "member": "华泰期货(代客)",
+      "value": 551,
+      "change": 365
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "volume",
+      "rank": 8,
+      "member": "招商期货(代客)",
+      "value": 480,
+      "change": -13
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "long",
+      "rank": 8,
+      "member": "一德期货(代客)",
+      "value": 385,
+      "change": 0
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "short",
+      "rank": 8,
+      "member": "兴业期货(代客)",
+      "value": 540,
+      "change": 56
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "volume",
+      "rank": 9,
+      "member": "华闻期货(代客)",
+      "value": 468,
+      "change": 71
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "long",
+      "rank": 9,
+      "member": "国信期货(代客)",
+      "value": 326,
+      "change": -217
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "short",
+      "rank": 9,
+      "member": "国信期货(代客)",
+      "value": 503,
+      "change": -509
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "volume",
+      "rank": 10,
+      "member": "银河期货(代客)",
+      "value": 354,
+      "change": 149
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "long",
+      "rank": 10,
+      "member": "恒力期货(代客)",
+      "value": 320,
+      "change": 0
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "short",
+      "rank": 10,
+      "member": "中信建投(代客)",
+      "value": 479,
+      "change": 8
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "volume",
+      "rank": 11,
+      "member": "宝城期货(代客)",
+      "value": 354,
+      "change": -160
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "long",
+      "rank": 11,
+      "member": "中粮期货(代客)",
+      "value": 296,
+      "change": 178
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "short",
+      "rank": 11,
+      "member": "银河期货(代客)",
+      "value": 251,
+      "change": 27
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "volume",
+      "rank": 12,
+      "member": "中泰期货(代客)",
+      "value": 215,
+      "change": 159
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "long",
+      "rank": 12,
+      "member": "瑞银期货(代客)",
+      "value": 220,
+      "change": 0
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "short",
+      "rank": 12,
+      "member": "广发期货(代客)",
+      "value": 214,
+      "change": 36
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "volume",
+      "rank": 13,
+      "member": "中粮期货(代客)",
+      "value": 178,
+      "change": 57
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "long",
+      "rank": 13,
+      "member": "华泰期货(代客)",
+      "value": 219,
+      "change": 93
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "short",
+      "rank": 13,
+      "member": "兴证期货(代客)",
+      "value": 185,
+      "change": 18
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "volume",
+      "rank": 14,
+      "member": "广发期货(代客)",
+      "value": 169,
+      "change": 34
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "long",
+      "rank": 14,
+      "member": "光大期货(代客)",
+      "value": 211,
+      "change": 95
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "short",
+      "rank": 14,
+      "member": "金瑞期货(代客)",
+      "value": 180,
+      "change": 32
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "volume",
+      "rank": 15,
+      "member": "南华期货(代客)",
+      "value": 162,
+      "change": 118
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "long",
+      "rank": 15,
+      "member": "华闻期货(代客)",
+      "value": 167,
+      "change": 51
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "short",
+      "rank": 15,
+      "member": "华闻期货(代客)",
+      "value": 180,
+      "change": 39
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "volume",
+      "rank": 16,
+      "member": "光大期货(代客)",
+      "value": 131,
+      "change": 54
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "long",
+      "rank": 16,
+      "member": "广发期货(代客)",
+      "value": 137,
+      "change": 33
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "short",
+      "rank": 16,
+      "member": "中泰期货(代客)",
+      "value": 108,
+      "change": 66
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "volume",
+      "rank": 17,
+      "member": "兴证期货(代客)",
+      "value": 118,
+      "change": 86
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "long",
+      "rank": 17,
+      "member": "中泰期货(代客)",
+      "value": 106,
+      "change": 79
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "short",
+      "rank": 17,
+      "member": "恒力期货(代客)",
+      "value": 106,
+      "change": 5
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "volume",
+      "rank": 18,
+      "member": "国元期货(代客)",
+      "value": 103,
+      "change": 37
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "long",
+      "rank": 18,
+      "member": "兴证期货(代客)",
+      "value": 77,
+      "change": 68
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "short",
+      "rank": 18,
+      "member": "南华期货(代客)",
+      "value": 85,
+      "change": 70
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "volume",
+      "rank": 19,
+      "member": "华西期货(代客)",
+      "value": 90,
+      "change": 74
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "long",
+      "rank": 19,
+      "member": "南华期货(代客)",
+      "value": 76,
+      "change": 54
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "short",
+      "rank": 19,
+      "member": "海证期货(代客)",
+      "value": 73,
+      "change": 23
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "volume",
+      "rank": 20,
+      "member": "永安期货(代客)",
+      "value": 72,
+      "change": 56
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "long",
+      "rank": 20,
+      "member": "平安期货(代客)",
+      "value": 67,
+      "change": 6
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2611",
+      "metric": "short",
+      "rank": 20,
+      "member": "中航期货(代客)",
+      "value": 60,
+      "change": 21
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "volume",
+      "rank": 1,
+      "member": "中信期货(代客)",
+      "value": 30087,
+      "change": 7995
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "long",
+      "rank": 1,
+      "member": "国泰君安(代客)",
+      "value": 22414,
+      "change": 1707
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "short",
+      "rank": 1,
+      "member": "中信期货(代客)",
+      "value": 37925,
+      "change": 2835
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "volume",
+      "rank": 2,
+      "member": "国泰君安(代客)",
+      "value": 19734,
+      "change": 4956
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "long",
+      "rank": 2,
+      "member": "中信期货(代客)",
+      "value": 20842,
+      "change": 2672
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "short",
+      "rank": 2,
+      "member": "国泰君安(代客)",
+      "value": 22086,
+      "change": 1211
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "volume",
+      "rank": 3,
+      "member": "海通期货(代客)",
+      "value": 9182,
+      "change": 3177
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "long",
+      "rank": 3,
+      "member": "银河期货(代客)",
+      "value": 9266,
+      "change": 118
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "short",
+      "rank": 3,
+      "member": "华泰期货(代客)",
+      "value": 21013,
+      "change": 518
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "volume",
+      "rank": 4,
+      "member": "东证期货(代客)",
+      "value": 7978,
+      "change": 1086
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "long",
+      "rank": 4,
+      "member": "华泰期货(代客)",
+      "value": 7583,
+      "change": 882
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "short",
+      "rank": 4,
+      "member": "东证期货(代客)",
+      "value": 8342,
+      "change": 744
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "volume",
+      "rank": 5,
+      "member": "国信期货(代客)",
+      "value": 5580,
+      "change": 1282
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "long",
+      "rank": 5,
+      "member": "南华期货(代客)",
+      "value": 7433,
+      "change": 46
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "short",
+      "rank": 5,
+      "member": "海通期货(代客)",
+      "value": 7769,
+      "change": 203
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "volume",
+      "rank": 6,
+      "member": "中泰期货(代客)",
+      "value": 5146,
+      "change": 1997
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "long",
+      "rank": 6,
+      "member": "东证期货(代客)",
+      "value": 6938,
+      "change": 370
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "short",
+      "rank": 6,
+      "member": "银河期货(代客)",
+      "value": 7415,
+      "change": 228
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "volume",
+      "rank": 7,
+      "member": "华泰期货(代客)",
+      "value": 3966,
+      "change": 633
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "long",
+      "rank": 7,
+      "member": "广发期货(代客)",
+      "value": 6033,
+      "change": 526
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "short",
+      "rank": 7,
+      "member": "中银期货(代客)",
+      "value": 5280,
+      "change": 71
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "volume",
+      "rank": 8,
+      "member": "华闻期货(代客)",
+      "value": 3942,
+      "change": 1192
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "long",
+      "rank": 8,
+      "member": "浙商期货(代客)",
+      "value": 5544,
+      "change": 82
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "short",
+      "rank": 8,
+      "member": "广发期货(代客)",
+      "value": 5034,
+      "change": 263
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "volume",
+      "rank": 9,
+      "member": "银河期货(代客)",
+      "value": 2996,
+      "change": 264
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "long",
+      "rank": 9,
+      "member": "永安期货(代客)",
+      "value": 4338,
+      "change": 22
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "short",
+      "rank": 9,
+      "member": "国信期货(代客)",
+      "value": 4777,
+      "change": 887
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "volume",
+      "rank": 10,
+      "member": "广发期货(代客)",
+      "value": 2469,
+      "change": 242
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "long",
+      "rank": 10,
+      "member": "国信期货(代客)",
+      "value": 4204,
+      "change": 1521
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "short",
+      "rank": 10,
+      "member": "中信建投(代客)",
+      "value": 3909,
+      "change": 214
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "volume",
+      "rank": 11,
+      "member": "瑞达期货(代客)",
+      "value": 2257,
+      "change": 608
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "long",
+      "rank": 11,
+      "member": "海通期货(代客)",
+      "value": 4150,
+      "change": -67
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "short",
+      "rank": 11,
+      "member": "中金财富(代客)",
+      "value": 3789,
+      "change": 129
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "volume",
+      "rank": 12,
+      "member": "国投期货(代客)",
+      "value": 2127,
+      "change": -624
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "long",
+      "rank": 12,
+      "member": "光大期货(代客)",
+      "value": 4055,
+      "change": 166
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "short",
+      "rank": 12,
+      "member": "申银万国(代客)",
+      "value": 3626,
+      "change": 48
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "volume",
+      "rank": 13,
+      "member": "光大期货(代客)",
+      "value": 2082,
+      "change": 101
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "long",
+      "rank": 13,
+      "member": "宝城期货(代客)",
+      "value": 3731,
+      "change": 130
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "short",
+      "rank": 13,
+      "member": "国投期货(代客)",
+      "value": 3462,
+      "change": 305
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "volume",
+      "rank": 14,
+      "member": "五矿期货(代客)",
+      "value": 2013,
+      "change": 254
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "long",
+      "rank": 14,
+      "member": "中金财富(代客)",
+      "value": 3675,
+      "change": -70
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "short",
+      "rank": 14,
+      "member": "光大期货(代客)",
+      "value": 3444,
+      "change": 106
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "volume",
+      "rank": 15,
+      "member": "中信建投(代客)",
+      "value": 1871,
+      "change": -62
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "long",
+      "rank": 15,
+      "member": "国投期货(代客)",
+      "value": 3222,
+      "change": 42
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "short",
+      "rank": 15,
+      "member": "招商期货(代客)",
+      "value": 3169,
+      "change": 45
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "volume",
+      "rank": 16,
+      "member": "永安期货(代客)",
+      "value": 1812,
+      "change": -236
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "long",
+      "rank": 16,
+      "member": "兴证期货(代客)",
+      "value": 3185,
+      "change": 558
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "short",
+      "rank": 16,
+      "member": "永安期货(代客)",
+      "value": 2632,
+      "change": -54
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "volume",
+      "rank": 17,
+      "member": "兴证期货(代客)",
+      "value": 1591,
+      "change": 624
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "long",
+      "rank": 17,
+      "member": "中泰期货(代客)",
+      "value": 2863,
+      "change": 286
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "short",
+      "rank": 17,
+      "member": "华闻期货(代客)",
+      "value": 2388,
+      "change": 478
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "volume",
+      "rank": 18,
+      "member": "平安期货(代客)",
+      "value": 1482,
+      "change": 155
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "long",
+      "rank": 18,
+      "member": "平安期货(代客)",
+      "value": 2829,
+      "change": 169
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "short",
+      "rank": 18,
+      "member": "中泰期货(代客)",
+      "value": 2348,
+      "change": 600
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "volume",
+      "rank": 19,
+      "member": "招商期货(代客)",
+      "value": 1404,
+      "change": 71
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "long",
+      "rank": 19,
+      "member": "中信建投(代客)",
+      "value": 2698,
+      "change": 133
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "short",
+      "rank": 19,
+      "member": "平安期货(代客)",
+      "value": 2109,
+      "change": -161
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "volume",
+      "rank": 20,
+      "member": "南华期货(代客)",
+      "value": 1353,
+      "change": -222
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "long",
+      "rank": 20,
+      "member": "申银万国(代客)",
+      "value": 2429,
+      "change": 177
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2612",
+      "metric": "short",
+      "rank": 20,
+      "member": "宏源期货(代客)",
+      "value": 1406,
+      "change": 70
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "volume",
+      "rank": 1,
+      "member": "中信期货(代客)",
+      "value": 4274,
+      "change": 1584
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "long",
+      "rank": 1,
+      "member": "海通期货(代客)",
+      "value": 8271,
+      "change": 338
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "short",
+      "rank": 1,
+      "member": "中信期货(代客)",
+      "value": 13185,
+      "change": 668
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "volume",
+      "rank": 2,
+      "member": "国泰君安(代客)",
+      "value": 3143,
+      "change": 774
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "long",
+      "rank": 2,
+      "member": "摩根大通(代客)",
+      "value": 7382,
+      "change": 0
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "short",
+      "rank": 2,
+      "member": "国泰君安(代客)",
+      "value": 7268,
+      "change": 218
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "volume",
+      "rank": 3,
+      "member": "海通期货(代客)",
+      "value": 2800,
+      "change": 826
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "long",
+      "rank": 3,
+      "member": "国泰君安(代客)",
+      "value": 6495,
+      "change": 113
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "short",
+      "rank": 3,
+      "member": "华泰期货(代客)",
+      "value": 5432,
+      "change": 312
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "volume",
+      "rank": 4,
+      "member": "东证期货(代客)",
+      "value": 2468,
+      "change": 909
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "long",
+      "rank": 4,
+      "member": "中金财富(代客)",
+      "value": 5781,
+      "change": -19
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "short",
+      "rank": 4,
+      "member": "招商期货(代客)",
+      "value": 3647,
+      "change": 23
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "volume",
+      "rank": 5,
+      "member": "华闻期货(代客)",
+      "value": 1612,
+      "change": 884
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "long",
+      "rank": 5,
+      "member": "中信期货(代客)",
+      "value": 4381,
+      "change": 370
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "short",
+      "rank": 5,
+      "member": "国信期货(代客)",
+      "value": 3449,
+      "change": 199
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "volume",
+      "rank": 6,
+      "member": "国信期货(代客)",
+      "value": 1056,
+      "change": -145
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "long",
+      "rank": 6,
+      "member": "申银万国(代客)",
+      "value": 3577,
+      "change": 17
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "short",
+      "rank": 6,
+      "member": "东证期货(代客)",
+      "value": 2881,
+      "change": 112
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "volume",
+      "rank": 7,
+      "member": "中泰期货(代客)",
+      "value": 1007,
+      "change": 584
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "long",
+      "rank": 7,
+      "member": "银河期货(代客)",
+      "value": 2178,
+      "change": 27
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "short",
+      "rank": 7,
+      "member": "中金财富(代客)",
+      "value": 2106,
+      "change": 131
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "volume",
+      "rank": 8,
+      "member": "华泰期货(代客)",
+      "value": 755,
+      "change": 78
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "long",
+      "rank": 8,
+      "member": "中银期货(代客)",
+      "value": 1688,
+      "change": 474
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "short",
+      "rank": 8,
+      "member": "银河期货(代客)",
+      "value": 1992,
+      "change": -38
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "volume",
+      "rank": 9,
+      "member": "银河期货(代客)",
+      "value": 627,
+      "change": 289
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "long",
+      "rank": 9,
+      "member": "东证期货(代客)",
+      "value": 1500,
+      "change": 50
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "short",
+      "rank": 9,
+      "member": "方正中期(代客)",
+      "value": 1865,
+      "change": -1
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "volume",
+      "rank": 10,
+      "member": "中银期货(代客)",
+      "value": 537,
+      "change": 103
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "long",
+      "rank": 10,
+      "member": "华泰期货(代客)",
+      "value": 1215,
+      "change": 75
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "short",
+      "rank": 10,
+      "member": "海通期货(代客)",
+      "value": 1808,
+      "change": 374
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "volume",
+      "rank": 11,
+      "member": "广发期货(代客)",
+      "value": 386,
+      "change": 113
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "long",
+      "rank": 11,
+      "member": "永安期货(代客)",
+      "value": 1023,
+      "change": 37
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "short",
+      "rank": 11,
+      "member": "国投期货(代客)",
+      "value": 1565,
+      "change": 28
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "volume",
+      "rank": 12,
+      "member": "新湖期货(代客)",
+      "value": 369,
+      "change": 358
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "long",
+      "rank": 12,
+      "member": "平安期货(代客)",
+      "value": 798,
+      "change": -2
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "short",
+      "rank": 12,
+      "member": "广发期货(代客)",
+      "value": 1511,
+      "change": -3
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "volume",
+      "rank": 13,
+      "member": "永安期货(代客)",
+      "value": 356,
+      "change": 153
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "long",
+      "rank": 13,
+      "member": "广发期货(代客)",
+      "value": 778,
+      "change": 139
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "short",
+      "rank": 13,
+      "member": "光大期货(代客)",
+      "value": 1308,
+      "change": 13
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "volume",
+      "rank": 14,
+      "member": "五矿期货(代客)",
+      "value": 318,
+      "change": 23
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "long",
+      "rank": 14,
+      "member": "华闻期货(代客)",
+      "value": 770,
+      "change": 181
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "short",
+      "rank": 14,
+      "member": "华闻期货(代客)",
+      "value": 1301,
+      "change": 251
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "volume",
+      "rank": 15,
+      "member": "南华期货(代客)",
+      "value": 291,
+      "change": -35
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "long",
+      "rank": 15,
+      "member": "大越期货(代客)",
+      "value": 756,
+      "change": 6
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "short",
+      "rank": 15,
+      "member": "中泰期货(代客)",
+      "value": 825,
+      "change": 288
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "volume",
+      "rank": 16,
+      "member": "中信建投(代客)",
+      "value": 251,
+      "change": -6
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "long",
+      "rank": 16,
+      "member": "中泰期货(代客)",
+      "value": 708,
+      "change": 301
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "short",
+      "rank": 16,
+      "member": "中信建投(代客)",
+      "value": 783,
+      "change": 27
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "volume",
+      "rank": 17,
+      "member": "正信期货(代客)",
+      "value": 218,
+      "change": 153
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "long",
+      "rank": 17,
+      "member": "建信期货(代客)",
+      "value": 689,
+      "change": 166
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "short",
+      "rank": 17,
+      "member": "海证期货(代客)",
+      "value": 712,
+      "change": 25
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "volume",
+      "rank": 18,
+      "member": "国投期货(代客)",
+      "value": 216,
+      "change": 33
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "long",
+      "rank": 18,
+      "member": "光大期货(代客)",
+      "value": 682,
+      "change": 35
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "short",
+      "rank": 18,
+      "member": "永安期货(代客)",
+      "value": 638,
+      "change": 81
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "volume",
+      "rank": 19,
+      "member": "中金财富(代客)",
+      "value": 216,
+      "change": 48
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "long",
+      "rank": 19,
+      "member": "宝城期货(代客)",
+      "value": 667,
+      "change": 17
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "short",
+      "rank": 19,
+      "member": "东吴期货(代客)",
+      "value": 602,
+      "change": 7
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "volume",
+      "rank": 20,
+      "member": "瑞达期货(代客)",
+      "value": 202,
+      "change": 78
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "long",
+      "rank": 20,
+      "member": "国投期货(代客)",
+      "value": 634,
+      "change": 22
+    },
+    {
+      "date": "20260928",
+      "product": "IF",
+      "contract": "IF2703",
+      "metric": "short",
+      "rank": 20,
+      "member": "申银万国(代客)",
+      "value": 601,
+      "change": 30
+    }
+  ],
+  "failures": []
+}

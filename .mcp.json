@@ -1,0 +1,11 @@
+{
+	"mcpServers": {
+		"shengyuan-trade-data": {
+			"url": "http://127.0.0.1:3000/mcp",
+			"directTools": true,
+			"lifecycle": "eager",
+			"auth": "bearer",
+			"bearerTokenStore": true
+		}
+	}
+}
