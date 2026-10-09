@@ -1,0 +1,9 @@
+{
+	"strategysource": "community_discussion",
+	"strategydesc": "填写需要解释的策略描述",
+	"strategycode": "填写需要解释的完整策略代码",
+	"strategyperformance": "尚未提供绩效数据",
+	"expose_strategy_code": false,
+	"strategy_s": [],
+	"examples_s": "填写可视化模块策略模板；保留其中的默认条件和配置"
+}

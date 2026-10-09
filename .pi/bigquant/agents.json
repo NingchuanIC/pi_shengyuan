@@ -1,0 +1,184 @@
+[
+  {
+    "id": "RootRouter",
+    "skill": "bigquant-router",
+    "description": "识别用户量化需求并选择 BigQuant agent；用于智能体路由或明确 @agent 的请求。",
+    "aliases": [
+      "router",
+      "路由"
+    ],
+    "placeholders": [
+      "agent_list"
+    ],
+    "source": "RootRouter_system_prompt.md",
+    "sha256": "49e7b14a86a75f13aa32b8b31cc3b6fb484cada2424e43c5234a2474619e30d5"
+  },
+  {
+    "id": "ChatAgent",
+    "skill": "bigquant-chat",
+    "description": "回答 BigQuant 平台使用、量化基础和主观投资思想量化的问题；完整策略开发用对应策略 skill。",
+    "aliases": [
+      "chat",
+      "AI对话"
+    ],
+    "placeholders": [],
+    "source": "ChatAgent_system_prompt.md",
+    "sha256": "1ca44880d104919f057bccb21db3eb9879f9a86d42c32147a3f2132fc118f38d"
+  },
+  {
+    "id": "CodeFixAgent",
+    "skill": "bigquant-code-fix",
+    "description": "诊断并修复 BigQuant 或 Python 代码的语法、运行时和逻辑错误；用于用户给出代码或错误信息的修复请求。",
+    "aliases": [
+      "fix",
+      "代码修复"
+    ],
+    "placeholders": [],
+    "source": "CodeFixAgent_system_prompt.md",
+    "sha256": "95bdcb6c05c63bd16718c5b8a1fab938d5f9c8462745ff2bff2609f1be844e08"
+  },
+  {
+    "id": "DAIAgent",
+    "skill": "bigquant-dai",
+    "description": "编写 BigQuant DAI 数据查询和指标因子计算的 Python/SQL；适用于取数或数据处理，不是完整交易策略。",
+    "aliases": [
+      "dai",
+      "数据查询"
+    ],
+    "placeholders": [],
+    "source": "DAIAgent_system_prompt.md",
+    "sha256": "b819a38649ff8f1da85aa2b88b1fc12a6dc59621d92be01f6c6f4a7035d18334"
+  },
+  {
+    "id": "DemandPriceAgent",
+    "skill": "bigquant-demand-price",
+    "description": "根据量化策略开发需求生成十字以内标题和报价；仅用于开发服务估价。",
+    "aliases": [
+      "price",
+      "需求报价"
+    ],
+    "placeholders": [],
+    "source": "DemandPriceAgent_system_prompt.md",
+    "sha256": "d7d24f9f3d4de446a009c7fba8b4b5ae6c97c0e0f61f4e775672edffbc33652a"
+  },
+  {
+    "id": "FutureStrategyAgent",
+    "skill": "bigquant-futures",
+    "description": "按用户思想编写 BigQuant 期货策略，处理主连因子、真实合约交易和移仓换月。",
+    "aliases": [
+      "future",
+      "futures",
+      "期货策略"
+    ],
+    "placeholders": [],
+    "source": "FutureStrategyAgent_system.md",
+    "sha256": "92f29ea42a7a8ad3dbc710f718c9c412a3321a389b179612701d902cfa2d28e9"
+  },
+  {
+    "id": "OptionStrategyAgent",
+    "skill": "bigquant-options",
+    "description": "编写 BigQuant 期权策略；包括看涨/看跌、跨式、宽跨式、价差、蝶式和日历组合。",
+    "aliases": [
+      "option",
+      "options",
+      "期权策略"
+    ],
+    "placeholders": [],
+    "source": "OptionStrategyAgent_system_prompt.md",
+    "sha256": "193bd9a17341a190bdc229afe54eac2430c628cde9f85507e526c56d1b8b0b63"
+  },
+  {
+    "id": "PPTAgent",
+    "skill": "bigquant-ppt",
+    "description": "把已有量化研究 Markdown 总结为中文幻灯片内容；用于 PPT 内容生成，不负责策略开发。",
+    "aliases": [
+      "ppt",
+      "策略演示"
+    ],
+    "placeholders": [],
+    "source": "PPTAgent_system_prompt.md",
+    "sha256": "f827c652300f7cb9a6d05c78165cdf0458e79e81df21ceb5b1a3dd26ef4b6570"
+  },
+  {
+    "id": "QMTStrategyAgent",
+    "skill": "bigquant-qmt",
+    "description": "编写 QMT Python 策略，使用 init(ContextInfo)、handlebar(ContextInfo) 和 QMT 交易接口。",
+    "aliases": [
+      "qmt",
+      "QMT策略"
+    ],
+    "placeholders": [],
+    "source": "QMTStrategyAgent_system.md",
+    "sha256": "b020daebd60e7bb4c8742759e9a80ed3bab114dd0a3f289d3eef984ce68f7e41"
+  },
+  {
+    "id": "StockScreenerAgent",
+    "skill": "bigquant-stock-screener",
+    "description": "把选股条件转成 BigQuant DAI SQL 和 stockscreener 标签；适用于筛选股票，不输出完整交易策略。",
+    "aliases": [
+      "screener",
+      "选股"
+    ],
+    "placeholders": [],
+    "source": "StockScreenerAgent_system_prompt.md",
+    "sha256": "4ef4c5ad321e1c210aeb616dd11744cbe2cb069056343eeee62c843e3b791271"
+  },
+  {
+    "id": "StrategyChatAgent",
+    "skill": "bigquant-strategy-chat",
+    "description": "解释已有策略的逻辑、参数、风险和绩效；需要策略来源、描述、代码及绩效上下文。",
+    "aliases": [
+      "strategy-chat",
+      "策略问答"
+    ],
+    "placeholders": [
+      "strategysource",
+      "strategydesc",
+      "strategycode",
+      "strategyperformance"
+    ],
+    "source": "StrategyChatAgent_system_prompt.md",
+    "sha256": "011f2fde2ae16af17cdc206465d6a004e0754fdce5f9fa4a855d632dd411f56e"
+  },
+  {
+    "id": "StrategyCodeGenAgent",
+    "skill": "bigquant-visual-strategy",
+    "description": "生成 BigQuant 可视化模块策略代码；适用于明确需要 M.xxx.vN 模块图的请求，普通 Python 策略用 V2。",
+    "aliases": [
+      "visual",
+      "可视化策略"
+    ],
+    "placeholders": [
+      "examples_s"
+    ],
+    "source": "StrategyCodeGenAgent_system_prompt.md",
+    "sha256": "d1522bb010c8c0941d4ccee93d2b1f0d132a3f43dc1c41175daa208ceb9dd7c2"
+  },
+  {
+    "id": "StrategyCodeGenAgentV2",
+    "skill": "bigquant-stock-strategy",
+    "description": "把股票策略思想转成 BigQuant DAI/BigTrader 完整 Python；默认股票策略生成器，区别于旧版可视化模块。",
+    "aliases": [
+      "stock",
+      "strategy",
+      "股票策略"
+    ],
+    "placeholders": [],
+    "source": "StrategyCodeGenAgentV2_system_prompt.md",
+    "sha256": "93bd8c29e9e5c5857fa5700153dc84874dbfb728fd35d6aaa6e2a936555bab77"
+  },
+  {
+    "id": "StrategySearchAgent",
+    "skill": "bigquant-strategy-search",
+    "description": "从用户提供的策略库按语义相关性返回 strategy_id 列表；用于策略搜索，需要真实策略目录。",
+    "aliases": [
+      "search",
+      "策略搜索"
+    ],
+    "placeholders": [
+      "strategy_s"
+    ],
+    "source": "StrategySearchAgent_system_prompt.md",
+    "sha256": "2fc85c63a9505fe158dbd2c3d8cc121114f035bc5f27e1c937ccc725579516ac"
+  }
+]
